@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexMaskEditorControl", "HexMaskEditorControl\HexMaskEditorControl.csproj", "{2D25347C-B4DE-4A6D-94FC-A82CB75EA465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CF506B17-5D28-4FC1-939F-5C91011241BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D25347C-B4DE-4A6D-94FC-A82CB75EA465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D25347C-B4DE-4A6D-94FC-A82CB75EA465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D25347C-B4DE-4A6D-94FC-A82CB75EA465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D25347C-B4DE-4A6D-94FC-A82CB75EA465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF506B17-5D28-4FC1-939F-5C91011241BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF506B17-5D28-4FC1-939F-5C91011241BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF506B17-5D28-4FC1-939F-5C91011241BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF506B17-5D28-4FC1-939F-5C91011241BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {343768DD-2422-4A68-A342-291E920E541B}
+	EndGlobalSection
+EndGlobal
